@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CodeSwag</string>
+    <string name="bg">Bg</string>
 </resources>
